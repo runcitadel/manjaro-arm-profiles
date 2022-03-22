@@ -59,11 +59,11 @@ okular
 gwenview
 
 # Themes
-plasma5-themes-breath
-sddm-breath-theme
-manjaro-arm-wallpapers
+#plasma5-themes-breath
+#sddm-breath-theme
+#manjaro-arm-wallpapers
 breeze-gtk
-manjaro-icons
+#manjaro-icons
 
 
 # Office suite
@@ -87,7 +87,7 @@ manjaro-settings-manager
 manjaro-hotfixes
 manjaro-arm-flasher
 manjaro-arm-installer
-matray
+#matray
 
 # Other packages
 openresolv
@@ -97,3 +97,9 @@ flameshot
 xdg-user-dirs
 networkmanager-openvpn
 firewalld
+
+# Citadel
+python
+python-pip
+git
+docker

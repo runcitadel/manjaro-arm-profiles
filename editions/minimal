@@ -19,3 +19,9 @@ irqbalance
 # Minimal edition packages
 iwd
 manjaro-hotfixes
+
+# Citadel
+python
+python-pip
+git
+docker
