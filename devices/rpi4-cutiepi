@@ -1,20 +1,25 @@
 ## Maintained by Darksky ##
 
 # Kernel and Bootloader stuff
-linux-rpi4-mainline
+linux-rpi4
+linux-rpi4-headers
 raspberrypi-bootloader
 raspberrypi-bootloader-x
-bootsplash-theme-manjaro
-bootsplash-systemd
+rpi-eeprom
+raspberrypi-userland-aarch64-git
+plymouth
+plymouth-theme-manjaro
 
 # Video driver
-xf86-video-fbdev
 
 # Other device specific packages
 crda
 btrfs-progs
 f2fs-tools
 firmware-raspberrypi
-pi-bluetooth
+brcm-patchram-plus
 wpa_supplicant
-rpi3-post-install
+generic-post-install
+rpi4-post-install
+cutiepi-cutoff
+cutiepi-kernel-config

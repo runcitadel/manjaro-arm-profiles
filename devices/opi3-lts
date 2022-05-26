@@ -1,17 +1,19 @@
-## Maintained by Strit ##
+## Maintained by Spikerguy ##
 
 # Kernel and bootloader stuff
-linux-quartz64
-uboot-quartz64-bsp
+linux
+linux-headers
+uboot-opi3-lts
 plymouth
 plymouth-theme-manjaro
 
 # Video drivers
+# xf86-video-fbdev
 
 # Other device specific packages
 crda
 btrfs-progs
 f2fs-tools
-ap6256-firmware
 wpa_supplicant
-quartz64-post-install
+generic-post-install
+pinebook-post-install

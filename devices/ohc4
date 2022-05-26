@@ -1,8 +1,8 @@
 ## Maintained by Spikerguy ##
 
 # Kernel and bootloader stuff
-linux-vim
-linux-vim-headers
+linux-odroid
+linux-odroid-headers
 uboot-odroid-hc4
 plymouth
 plymouth-theme-manjaro
@@ -13,4 +13,5 @@ plymouth-theme-manjaro
 btrfs-progs
 f2fs-tools
 fbset
+generic-post-install
 hc4-post-install

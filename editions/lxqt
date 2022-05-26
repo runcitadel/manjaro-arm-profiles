@@ -17,10 +17,16 @@ irqbalance
 pavucontrol-qt
 pulseaudio-alsa
 alsa-utils
-bluez
-pulseaudio-bluetooth
-blueman
 smplayer
+bluez
+bluez-utils
+blueman
+pipewire-alsa
+pipewire-pulse
+pipewire-zeroconf
+gst-plugin-pipewire
+gst-libav
+libva-v4l2-request
 
 # Display Manager
 lightdm
@@ -48,7 +54,6 @@ lxqt-sudo
 lxqt-themes
 lxqt-config
 qterminal
-qpdfview
 openbox
 obconf-qt
 lxappearance-gtk3
@@ -80,7 +85,7 @@ mtpfs
 ntfs-3g
 
 # Office suite
-libreoffice-fresh
+#libreoffice-fresh
 
 # Package Manager
 pamac-gtk
@@ -113,3 +118,5 @@ cpu-temp-speed
 man-pages
 man-db
 matray
+mesa-utils
+xorg-xdpyinfo

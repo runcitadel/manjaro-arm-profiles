@@ -18,8 +18,15 @@ pulseaudio-alsa
 alsa-utils
 smplayer
 bluez
-pulseaudio-bluetooth
+bluez-utils
 blueman
+pipewire-alsa
+pipewire-pulse
+pipewire-zeroconf
+gst-plugin-pipewire
+gst-libav
+libva-v4l2-request
+
 
 # Display Manager
 lightdm
@@ -50,11 +57,13 @@ xfce4-terminal
 xfconf
 xfdesktop
 xfwm4
+xfce4-screensaver
 # xfwm4-themes
 
 ## XFCE Extras
 thunar-archive-plugin
 thunar-media-tags-plugin
+mugshot
 
 # xfce4-artwork
 xfce4-battery-plugin
@@ -95,7 +104,7 @@ firefox
 firefox-ublock-origin
 
 # Office suite
-libreoffice-fresh
+#libreoffice-fresh
 
 # Package Manager
 pamac-gtk
@@ -119,6 +128,8 @@ wget
 power-profiles-daemon
 cpu-temp-speed
 matray
+mesa-utils
+xorg-xdpyinfo
 
 # File systems access
 gvfs

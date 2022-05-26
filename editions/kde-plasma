@@ -38,7 +38,7 @@ kscreenlocker
 ksysguard
 kwallet-pam
 kwayland-integration
-#plasma-wayland-session
+plasma-wayland-session
 kwin
 plasma-desktop
 plasma-nm
@@ -67,7 +67,7 @@ breeze-gtk
 
 
 # Office suite
-libreoffice-fresh
+#libreoffice-fresh
 
 # Browser
 firefox

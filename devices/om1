@@ -1,0 +1,17 @@
+## Maintained by Strit ##
+
+# Kernel and bootloader stuff
+linux-rc
+uboot-odroid-m1
+plymouth
+plymouth-theme-manjaro
+
+# Video drivers
+
+# Other device specific packages
+crda
+btrfs-progs
+f2fs-tools
+wpa_supplicant
+generic-post-install
+quartz64-post-install

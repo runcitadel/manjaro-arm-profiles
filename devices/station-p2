@@ -1,7 +1,7 @@
 ## Maintained by Spikerguy ##
 
 # Kernel and bootloader stuff
-linux-rk356x
+linux-rc
 uboot-station-p2
 plymouth
 plymouth-theme-manjaro
@@ -14,4 +14,5 @@ btrfs-progs
 f2fs-tools
 #ap6256-firmware
 wpa_supplicant
+generic-post-install
 stationp2-post-install

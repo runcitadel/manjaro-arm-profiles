@@ -9,6 +9,7 @@ plymouth-theme-manjaro
 # Video drivers
 
 # Other device specific packages
+linux-firmware
 crda
 btrfs-progs
 f2fs-tools
@@ -16,4 +17,5 @@ ap6256-firmware
 wpa_supplicant
 pinebookpro-audio
 xf86-input-synaptics
+generic-post-install
 pinebookpro-post-install
